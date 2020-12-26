@@ -47,28 +47,43 @@ The results of the charLSTM classifier approach for the 2 subsets are stated bel
 ### first 125,000 sentences of eight languages
 
 **accuracy** = 98.28%
+
 **f1-micro** = 98.28%
+
 **f1-macro** = 98.27959967758044%
+
 **f1-weighted** = 98.2794312965243%
 
 class wise accuracies are:
+
 _Spanish_: 98.79644588045234%
+
 _German_: 98.16681215776526%
+
 _Italian_: 97.92299089311392%
+
 _French_: 98.67685279987398%
+
 _Portugese_: 96.94271531006224%
+
 _English_: 97.97659678205754%
+
 _Dutch_: 98.36237495966441%
+
 _Danish_: 99.4198694706309%
 
 ### first 10,000 sentences of eight languages
 
 **accuracy** = 95.875%
+
 **f1-micro** = 95.875%
+
 **f1-macro** = 95.90623350666452%
+
 **f1-weighted** = 95.86089203953024%
 
 class wise accuracies are:
+
 _Spanish_: 96.07250755287009%
 
 _Italian_: 93.78698224852072%
