@@ -1,7 +1,5 @@
 # Language identification with character-lstm based embeddings
 
-Link to github repo: https://github.com/atharva-naik/langid
-
 ## Task:
 
 Language identification for a written document
